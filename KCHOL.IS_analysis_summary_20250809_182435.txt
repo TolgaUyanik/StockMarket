@@ -1,0 +1,21 @@
+TECHNICAL ANALYSIS SUMMARY FOR KCHOL.IS
+==================================================
+Analysis Date: 2025-08-09 18:24:35
+Data Period: 2024-01-01 to 2025-08-09
+Latest Close Price: $180.30
+
+LATEST INDICATOR VALUES:
+RSI (14):           62.22
+MACD:               6.5656
+MACD Signal:        6.4021
+MACD Histogram:     0.1635
+CCI (20):           87.89
+ADX (14):           46.93
+Tenkan-sen:         177.80
+Kijun-sen:          169.90
+
+TRADING SIGNALS:
+• RSI: NEUTRAL (62.22)
+• MACD: BULLISH - MACD above signal line
+• CCI: NEUTRAL (87.89)
+• ADX: STRONG TREND (46.93)

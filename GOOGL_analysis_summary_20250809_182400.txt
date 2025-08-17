@@ -1,0 +1,21 @@
+TECHNICAL ANALYSIS SUMMARY FOR GOOGL
+==================================================
+Analysis Date: 2025-08-09 18:24:00
+Data Period: 2023-01-01 to 2024-01-01
+Latest Close Price: $138.86
+
+LATEST INDICATOR VALUES:
+RSI (14):           66.14
+MACD:               1.9081
+MACD Signal:        1.3444
+MACD Histogram:     0.5636
+CCI (20):           73.28
+ADX (14):           29.45
+Tenkan-sen:         136.73
+Kijun-sen:          134.48
+
+TRADING SIGNALS:
+• RSI: NEUTRAL (66.14)
+• MACD: BULLISH - MACD above signal line
+• CCI: NEUTRAL (73.28)
+• ADX: STRONG TREND (29.45)
