@@ -1,10 +1,8 @@
 .aidigestignore
-TradingViewFinished.csv
-TradingViewLast.json
 codebase.md
-.gitignore
 CSVs/
 Old_Versions/
 BacktestingCodes/
 StockMarketV2/
+.gitignore
 # Maybe CSVs
